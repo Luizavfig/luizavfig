@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3a0ca3,100:7209b7&height=210&section=header&text=Luiza%20V.%20Figueiredo&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Software%20Engineering%20%C2%B7%20Full%20Stack%20%C2%B7%20Security%20%C2%B7%20Research&descSize=16&descAlignY=63&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3a0ca3,100:7209b7&height=210&section=header&text=Luiza%20V.%20Figueiredo&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Software%20Engineering%20%C2%B7%20Full%20Stack%20%C2%B7%20Security%20%C2%B7%20Research&descSize=16&descAlignY=63&animation=fadeIn"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3600&pause=900&color=B5179E&center=true&vCenter=true&width=720&lines=Software+Engineering+student+%40+UNIPAMPA;Development+%E2%86%92+Architecture+%E2%86%92+Security+%E2%86%92+Research;Security+is+architecture%2C+not+an+afterthought." alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3600&pause=900&color=B5179E&center=true&vCenter=true&width=760&lines=Software+Engineering+student+%40+UNIPAMPA;Research+%E2%86%92+Engineering+%E2%86%92+Full+Stack+%E2%86%92+Security+%E2%86%92+AI;Security+is+architecture%2C+not+an+afterthought." alt="tagline"/>
 
 <br/>
 
@@ -16,21 +16,20 @@
 
 ## `//` about
 
-Estudante de **Bacharelado em Engenharia de Software na Universidade Federal do Pampa (UNIPAMPA)**, construindo experiência ao longo de todo o ciclo da engenharia — do desenvolvimento à arquitetura, da segurança à pesquisa científica.
+**Software Engineering student at the Federal University of Pampa (UNIPAMPA)**, building experience across the full engineering lifecycle — from **development and architecture** to **security and scientific research**.
 
-Atuo como **desenvolvedora Full Stack**, **pesquisadora** e **entusiasta de segurança de software**. Meu trabalho vai além de escrever código: passa por **modelagem de regras de negócio**, **arquitetura limpa e hexagonal**, **threat modeling**, **testes automatizados e de desempenho** e **documentação técnica** — com contribuições reais em ambientes profissionais, científicos e de extensão.
+I work as a **Full Stack Developer**, **software researcher** and **security enthusiast**. My work goes beyond writing code: it spans **business-rule modeling**, **clean & hexagonal architecture**, **threat modeling**, **automated and performance testing**, and **technical & academic writing** — with real contributions in professional, scientific and university-outreach settings.
 
 ```yaml
 identity:   Software Engineering student · Full Stack Developer · Researcher · Security enthusiast
-university: UNIPAMPA — Campus Alegrete
-trajectory: development → architecture → security → research → outreach
-focus:      clean & hexagonal architecture · secure-by-design · DevSecOps
-research:   smart contracts · blockchain · BPMN · QoS-based recommendation
+university: UNIPAMPA — Campus Alegrete, Brazil
+domains:    development · architecture · security · research · AI · blockchain · outreach
+approach:   clean & hexagonal architecture · secure-by-design · DevSecOps
 ```
 
 <div align="center">
 
-`DEVELOPMENT` → `ARCHITECTURE` → `SECURITY` → `RESEARCH` → `EXTENSION`
+`RESEARCH` → `SOFTWARE ENGINEERING` → `FULL STACK` → `ARCHITECTURE` → `SECURITY` → `AI` → `BLOCKCHAIN` → `OUTREACH`
 
 </div>
 
@@ -45,6 +44,7 @@ research:   smart contracts · blockchain · BPMN · QoS-based recommendation
 ![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=7209b7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=3a0ca3)
 ![PHP](https://img.shields.io/badge/PHP-0d0221?style=for-the-badge&logo=php&logoColor=B5179E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=7209b7)
 
 **Frameworks & Tools**
 
@@ -52,80 +52,96 @@ research:   smart contracts · blockchain · BPMN · QoS-based recommendation
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=7209b7)
 ![Next.js](https://img.shields.io/badge/Next.js-0d0221?style=for-the-badge&logo=next.js&logoColor=3a0ca3)
 ![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=B5179E)
-![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=7209b7)
-![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=3a0ca3)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d0221?style=for-the-badge&logo=latex&logoColor=B5179E)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d0221?style=for-the-badge&logo=vue.js&logoColor=7209b7)
+![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=3a0ca3)
+![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=B5179E)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d0221?style=for-the-badge&logo=latex&logoColor=7209b7)
 
-**Security & Practices**
+**Security & Research Practices**
 
 ![STRIDE](https://img.shields.io/badge/STRIDE-0d0221?style=for-the-badge&logo=shieldsdotio&logoColor=B5179E)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0d0221?style=for-the-badge&logo=owasp&logoColor=7209b7)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-0d0221?style=for-the-badge&logo=datadog&logoColor=3a0ca3)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-0d0221?style=for-the-badge&logo=nist&logoColor=B5179E)
+![PRISMA](https://img.shields.io/badge/PRISMA_2020-0d0221?style=for-the-badge&logo=readthedocs&logoColor=7209b7)
 
 </div>
 
 ---
 
-## `//` experience
+## `//` bachelor's thesis
+
+<div align="center">
+
+<table>
+<tr><td>
+
+### 🎓 Evidence-Based AI Applications in Higher Education
+
+**Systematic Tertiary Literature Review (STR)** on Artificial Intelligence applications in Higher Education — synthesizing secondary studies published between **2019 and 2026**, following **Kitchenham & Charters**, **PRISMA 2020** and **AMSTAR 2**.
+
+Investigates the main AI applications in Higher Education, their reported benefits, challenges, limitations and ethical concerns, as well as research gaps and trends.
+
+`Systematic Review` · `Scientific Methodology` · `Evidence Analysis` · `AI in Education`
+
+**2026 · UNIPAMPA — Campus Alegrete, RS** · Author: *Luiza de Campos Velasque Figueiredo*
+
+[**View Research →**](https://github.com/Luizavfig/rst-ai-ensino-superior)
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
+## `//` academic research
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### ⬡ Software Engineering Intern · Full Stack Developer
-**UNIPAMPA** — Mar 2026 – present
+### ⬡ Smart Contract Architectures — SLR
+Python tooling to **filter and analyze IEEE CSV article exports** for a systematic literature review on **smart contract architectures** — computational support for the screening and analysis stages of scientific research.
 
-Desenvolvimento de uma **plataforma web em Laravel** para gestão de ativos de **propriedade intelectual**. Atuação Full Stack em todo o ciclo: **back-end e front-end**, regras de negócio, **acesso a dados por perfil de usuário**, interfaces administrativas, relatórios, melhorias de UX, **testes automatizados**, **Docker**, controle de versão e documentação técnica.
+`Python` · `Systematic Review` · `IEEE Data` · `Smart Contracts`
 
-`Laravel` · `Full Stack` · `Docker` · `Automated Testing`
+[Repository →](https://github.com/LuizaVelasque/slr_smartcontracts)
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### ⬡ Undergraduate Researcher · Software Engineering
-**UNIPAMPA — Campus Alegrete** — May 2025 – Dec 2025
-
-Pesquisa aplicada em **contratos inteligentes, BPMN e blockchain**. Desenvolvimento de uma **técnica de recomendação baseada em Qualidade de Serviço (QoS)** para apoiar a decisão entre abordagens **on-chain e off-chain**, considerando requisitos e características de desempenho das soluções.
+### ⬡ Undergraduate Research — Blockchain & Smart Contracts
+Applied research in **smart contracts, BPMN and blockchain**. Developed a **QoS-based recommendation technique** to support the decision between **on-chain and off-chain** approaches, weighing requirements and performance characteristics.
 
 `Blockchain` · `Smart Contracts` · `BPMN` · `QoS` · `Performance Analysis`
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### ⬡ Extension Scholarship Holder · Gurias Of Code
-**UNIPAMPA** — Jun 2026 – present
-
-Bolsista do projeto **"Gurias Of Code: Desbravando a Arte da Programação"**, voltado à inclusão e à participação feminina na Computação. Planejamento e execução de atividades, **produção de materiais didáticos**, elaboração de práticas e orientação às participantes — unindo conhecimento técnico, comunicação e impacto acadêmico-social.
-
-`Teaching` · `Didactic Materials` · `Mentorship` · `Community`
+*UNIPAMPA — May 2025 to Dec 2025*
 
 </td>
 </tr>
 </table>
 
+> These works reflect a research profile that not only builds software, but also **investigates problems, analyzes evidence and produces technical-scientific knowledge**.
+
 ---
 
-## `//` featured projects
+## `//` software engineering projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⬡ VitaLink — Software Security
-Sistema para **gerenciamento seguro de informações médicas**, pensado com segurança desde a arquitetura: **threat modeling (STRIDE)**, priorização de riscos com **NIST CSF 2.0**, arquitetura e código seguros, verificação de vulnerabilidades, detecção de intrusões e **DevSecOps**. Cobre ameaças de autorização, exposição de dados, alteração de registros, auditoria, APIs, armazenamento e disponibilidade.
+Secure **medical information management** system, designed with security from architecture onward: **threat modeling (STRIDE)**, risk prioritization with **NIST CSF 2.0**, secure architecture and code, vulnerability assessment, intrusion detection and **DevSecOps**. Covers authorization, data exposure, record tampering, auditing, APIs, storage and availability.
 
-`STRIDE` · `NIST CSF 2.0` · `OWASP ZAP` · `Secure Architecture`
+`STRIDE` · `NIST CSF 2.0` · `OWASP ZAP` · `Secure Architecture` · `DevSecOps`
 
 </td>
 <td width="50%" valign="top">
 
 ### ⬡ SGOPI — Integrated Occurrence Management
-**Sistema de Gestão de Ocorrências Policiais Integradas.** Demonstração prática de desenvolvimento **Full Stack** e **arquitetura hexagonal**, com foco em organização, separação de responsabilidades e testabilidade.
+**Integrated police occurrence management system.** A hands-on demonstration of **Full Stack development** and **hexagonal architecture**, focused on separation of concerns and testability.
 
 `Python` · `FastAPI` · `Next.js` · `Hexagonal Architecture`
 
@@ -134,21 +150,76 @@ Sistema para **gerenciamento seguro de informações médicas**, pensado com seg
 <tr>
 <td width="50%" valign="top">
 
-### ⬡ Intelectio — Intellectual Property Platform
-Plataforma voltada à **gestão de propriedade intelectual em universidades**, com perspectiva de **produto / software como serviço**, conectada à minha experiência profissional em sistemas de gestão de ativos de PI.
+### ⬡ Intelectio — IP Management Platform
+**SaaS** platform for **intellectual property management** in universities, tied to my professional work on IP asset management systems.
 
-`SaaS` · `Product` · `IP Management`
+`SaaS` · `Product` · `Web Platform`
 
 </td>
 <td width="50%" valign="top">
 
-### ⬡ Research Output
-Produção científica em **Engenharia de Software**, com escrita acadêmica em **LaTeX** e foco em análise de desempenho e tomada de decisão baseada em requisitos.
+### ⬡ Thoth Remake — SLR Tooling
+Project based on a **Thoth 2.0 fork/template** for **Systematic Literature Review** support — hands-on work with a full Laravel stack, Dockerized environment, Composer, migrations and seeders.
 
-`Systematic Reviews` · `Performance Testing` · `LaTeX`
+`Laravel` · `PHP` · `Vue.js` · `Docker` · `Bootstrap` · `Chart.js`
+
+[Repository →](https://github.com/Luizavfig/thoth-remake)
 
 </td>
 </tr>
+</table>
+
+---
+
+## `//` international collaboration
+
+<div align="center">
+
+### 🌎 Kamino — Software Engineering / Research Project
+
+![Partnership](https://img.shields.io/badge/🇧🇷_UNIPAMPA-0d0221?style=for-the-badge&labelColor=0d0221&color=7209b7)
+![x](https://img.shields.io/badge/×-0d0221?style=for-the-badge&labelColor=0d0221)
+![UdeM](https://img.shields.io/badge/🇨🇦_Université_de_Montréal-0d0221?style=for-the-badge&labelColor=0d0221&color=B5179E)
+
+Experience in a project developed through **academic collaboration between a Brazilian university and a Canadian institution**, involving different academic and professional contexts.
+
+</div>
+
+---
+
+## `//` experience
+
+<table>
+<tr><td valign="top">
+
+### ⬡ Software Engineering Intern · Full Stack Developer
+**UNIPAMPA** — *Mar 2026 – present*
+
+Development of a **Laravel web platform** for **intellectual property asset management**. Full Stack work across the whole cycle: **back-end and front-end**, business rules, **role-based data access**, admin interfaces, reporting, UX improvements, **automated testing**, **Docker**, version control and technical documentation.
+
+`Laravel` · `Full Stack` · `Docker` · `Automated Testing`
+
+</td></tr>
+<tr><td valign="top">
+
+### ⬡ Extension Scholarship Holder · Gurias Of Code
+**UNIPAMPA** — *Jun 2026 – present*
+
+University outreach focused on the **inclusion and formation of girls and women in Computing**. Beyond teaching programming, designing practical activities and producing didactic materials, I take part in the project's **scientific output** — contributing to the **writing of academic articles** and the dissemination of the knowledge produced. The role integrates **technology, education, communication and research**.
+
+`Teaching` · `Didactic Materials` · `Academic Writing` · `Mentorship`
+
+</td></tr>
+<tr><td valign="top">
+
+### ⬡ Undergraduate Researcher · Software Engineering
+**UNIPAMPA — Campus Alegrete** — *May 2025 – Dec 2025*
+
+Applied research in **smart contracts, BPMN and blockchain**, including a **QoS-based recommendation technique** for on-chain vs. off-chain decision support.
+
+`Research` · `Blockchain` · `Smart Contracts` · `QoS`
+
+</td></tr>
 </table>
 
 ---
@@ -172,11 +243,21 @@ Produção científica em **Engenharia de Software**, com escrita acadêmica em 
 
 ---
 
+## `//` other repositories
+
+- [`Luizavfig/rst-ai-ensino-superior`](https://github.com/Luizavfig/rst-ai-ensino-superior) — Bachelor's thesis · AI in Higher Education (STR)
+- [`LuizaVelasque/slr_smartcontracts`](https://github.com/LuizaVelasque/slr_smartcontracts) — SLR tooling for smart contract architectures
+- [`Luizavfig/thoth-remake`](https://github.com/Luizavfig/thoth-remake) — SLR support tool (Laravel · Vue.js · Docker)
+- [`LuizaVelasque/LuizaVelasque`](https://github.com/LuizaVelasque/LuizaVelasque) — Profile repository
+
+---
+
 <div align="center">
 
 ## `//` connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=B5179E)](https://github.com/luizavfig)
+[![GitHub @luizavfig](https://img.shields.io/badge/@luizavfig-0d0221?style=for-the-badge&logo=github&logoColor=B5179E)](https://github.com/luizavfig)
+[![GitHub @LuizaVelasque](https://img.shields.io/badge/@LuizaVelasque-0d0221?style=for-the-badge&logo=github&logoColor=7209b7)](https://github.com/LuizaVelasque)
 
 </div>
 
